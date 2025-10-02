@@ -1,4 +1,3 @@
-Show! Aqui vai um **README.md** pronto e organizado para o seu projeto de consulta de CEP com Spring Boot 🚀.
 
 ---
 
